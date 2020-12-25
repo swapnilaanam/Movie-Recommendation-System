@@ -15,7 +15,7 @@ print("Successfully Connected Datasets... Welcome to our movie recommender syste
 # We will use ratings dataset file, from the table of that file, we will group
 # all the ratings of a movie by movieID and then will find the average of it using mean()
 # We will also check if a movie is rated by at least a certain of people
-# in our case it's 50 users, as we cannot rely on 1/5 users for a reliable ratings
+# in our case it's 30 users, as we cannot rely on 1/5 users for a reliable ratings
 # then by sorting in descending based on ratings we will give a generic recommendation
 
 rows_to_display = 10
