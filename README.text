@@ -1,0 +1,5 @@
+A Simple Movie Recommendation System, which gives 
+1. The best 10 movies of all time recommendation. 
+2. It also gives  user's favourite category based best movies of all time. 
+3. Then It gives personal movie recommendation for user and his friend based on their taste. 
+4. Finally it provides a movie recommendation for both of them so they can have a movie party...
